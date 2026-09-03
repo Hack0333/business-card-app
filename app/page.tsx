@@ -111,7 +111,7 @@ export default async function Home() {
           JD
         </div>
         
-        <h1 className="text-2xl font-bold">Bhuwan Chand Joshi</h1>
+        <h1 className="text-2xl font-bold">Deepak Kumar Sharma</h1>
         <p className="text-slate-400 mb-6">Full Stack Developer</p>
         
         {/* Action Buttons */}
@@ -124,7 +124,7 @@ export default async function Home() {
           </a>
 
           <form action={submitToCap}>
-            <input type="hidden" name="communityId" value="@Bhuwan_joshi" />
+            <input type="hidden" name="communityId" value="Deepak_03-30" />
             <input type="hidden" name="answer" value="Hydration" />
             <input type="hidden" name="week" value="week4" />
 
